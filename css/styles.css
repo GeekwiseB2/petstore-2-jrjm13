@@ -68,3 +68,7 @@ address, address a {
   color: #bfc0c1;
   text-decoration: none;
 }
+
+.footer-logo {
+  width: 120px;
+}
